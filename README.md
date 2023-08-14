@@ -22,7 +22,7 @@ git clone `https://github.com/SuelytonThiago/VIRTUAL_STORE`
 ### run the project
 ./mvnw spring-boot:run
 
-To test the endpoints, just use posgres or access the swagger documentation with the url: localhost:(your port)/swagger-ui/index.html
+To test the endpoints, just use postman or access the swagger documentation with the url: localhost:(your port)/swagger-ui/index.html
 
 As the project needs authentication to access an endpoint, use the following users for testing:
 
