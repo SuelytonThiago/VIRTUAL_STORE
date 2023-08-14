@@ -17,7 +17,7 @@ It is a rest api that simulates the management of purchases over the internet.
 # How to run the project
 
 ### clone repository
-`git clone https://github.com/SuelytonThiago/VIRTUAL_STORE`
+git clone `https://github.com/SuelytonThiago/VIRTUAL_STORE`
 
 ### run the project
 ./mvnw spring-boot:run
@@ -27,11 +27,11 @@ To test the endpoints, just use posgres or access the swagger documentation with
 As the project needs authentication to access an endpoint, use the following users for testing:
 
 ### client
-* email: ana@example.com
+* email: `ana@example.com`
 * password: senha123
 
 ### admin
-* email: adm@example.com
+* email: `adm@example.com`
 * password: senha123
 
 # Author
