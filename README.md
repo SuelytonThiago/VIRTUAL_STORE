@@ -17,7 +17,7 @@ It is a rest api that simulates the management of purchases over the internet.
 # How to run the project
 
 ### clone repository
-`git clone https://github.com/SuelytonThiago/VIRTUAL_STORE
+`git clone https://github.com/SuelytonThiago/VIRTUAL_STORE`
 
 ### run the project
 ./mvnw spring-boot:run
